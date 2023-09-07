@@ -58,7 +58,6 @@ public class Product {
                 '}';
     }
 
-    // Getter for ID
     public String getId() {
         return id;
     }
