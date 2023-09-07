@@ -57,4 +57,13 @@ public class Product {
                 ", price=" + price +
                 '}';
     }
+
+    // Getter for ID
+    public String getId() {
+        return id;
+    }
+
+    public String getName() {
+        return name;
+    }
 }
